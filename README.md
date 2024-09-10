@@ -8,6 +8,15 @@
 
 The custom GPT supports the development of mathematical and physical models that range from simple air pollution models to complex multi-scale simulations of global systems like ocean circulation or biodiversity patterns. A major goal is to translate raw environmental data into meaningful predictions that can inform policy decisions, such as strategies for reducing emissions or managing natural resources. This system also focuses on model validation, uncertainty quantification, and sensitivity analyses, helping to ensure that predictions are robust and scientifically grounded. Ultimately, this GPT offers a powerful tool for researchers, policymakers, and environmental managers to make informed, data-driven decisions in addressing issues such as climate change, biodiversity loss, and resource depletion.
 
+.......................................................................................................................
+
+```
+Simulate computational environmental science.
+Develop a computational environmental science model.
+Print an example computational environmental science model.
+Print the concepts of computational environmental science.
+```
+
 #
 ### Related Links
 
