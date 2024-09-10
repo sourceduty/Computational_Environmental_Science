@@ -29,6 +29,10 @@ The model would then undergo validation by comparing its predictions to actual m
 Ultimately, this air quality prediction model serves as a practical example of how CES can be applied to a critical environmental issue. It not only improves our understanding of how pollutants behave in the atmosphere but also provides a vital tool for policy planning and public health protection. The computational approach enables large-scale, dynamic simulations that can predict future air quality trends, allowing decision-makers to take proactive measures to protect both the environment and human health.
 
 #
+
+![Science](https://github.com/user-attachments/assets/81864863-c6b2-47cc-b013-ab11ac021e34)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
