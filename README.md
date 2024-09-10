@@ -1,6 +1,6 @@
 ![Computational Environmental Science](https://github.com/user-attachments/assets/b1164c14-896a-4ca1-a958-bf3d857a870b)
 
-> Simulate and research modelled interactions within ecosystems, climate systems, and human impacts on the environment.
+> Simulate and research modelled ecosystems, climate systems, and human impacts on the environment.
 
 #
 
