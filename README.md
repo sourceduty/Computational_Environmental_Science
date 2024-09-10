@@ -23,6 +23,10 @@ Print the concepts of computational environmental science.
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
+<br>
+[Tree Identity](https://github.com/sourceduty/Tree_Identity)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
